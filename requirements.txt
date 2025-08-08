@@ -1,7 +1,0 @@
-streamlit
-sentence-transformers
-scipy
-numpy
-PyPDF2
-python-docx
-pandas
